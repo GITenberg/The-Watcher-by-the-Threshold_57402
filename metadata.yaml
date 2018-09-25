@@ -1,0 +1,24 @@
+_repo: The-Watcher-by-the-Threshold_57402
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Buchan, John
+    alias: Tweedsmuir, John Buchan, Baron
+    birthdate: 1875
+    deathdate: 1940
+    gutenberg_agent_id: '285'
+    url: http://www.gutenberg.org/2009/agents/285
+    wikipedia: http://en.wikipedia.org/wiki/John_Buchan,_1st_Baron_Tweedsmuir
+description: ''
+gutenberg_issued: '2018-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57402'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Watcher by the Threshold
+url: http://www.gutenberg.org/ebooks/57402
